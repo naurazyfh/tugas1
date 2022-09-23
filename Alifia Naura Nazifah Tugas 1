@@ -1,0 +1,60 @@
+Nama : Alifia Naura Nazifah
+Nim : 062040832810
+Mk : Praktikum Rekayasa Web
+Kelas : 5MIP
+
+1. Apa itu Git dan kegunaanya ? 
+
+GIT adalah sebuah version control system yang telah digunakan oleh para developer untuk dapat mengembangkan software secara bersamaan 
+singkatan dari Group Inclusive Tour. dan merupakan sebuah version control system terbuka yang dikembangkan oleh Linus Torvalds pada tahun 2005. Saat ini, Git merupakan 
+version control system paling populer digunakan. Ada ratusan proyek software yang mengandalkan Git sebagai version control system mereka termasuk proyek komersial 
+serta open source.
+Kegunaanya adalah : Fungsi utama dari GIT adalah mengatur versi source code program dengan memberikan tanda baris serta code mana yang perlu ditambah ataupun diganti.
+
+2. Apa itu Github dan kegunaanya ?
+
+Github adalah platform atau layanan web host yang memungkinkan tim developer untuk bekerja bersama secara online. melalui Github,developer tidak hanya bisa menyimpan dan
+mengelola kode, tapi juga dapat mengajak timnya mengecek kode di waktu dan satu tempat yang sama.Github sebuah platform yang merupakan manajemen project dengan 
+sistem versioning code, sekaligus menjadi platform sosial media bagi para developer di seluruh dunia.Tentunya, banyak sekali fungsi Github yang bisa dimanfaatkan
+oleh para developer.
+Kegunaanya adalah : 
+1.fungsi GitHub adalah untuk memudahkan kolaborasi dalam menjalankan project.
+2.Mencegah perubahan kode yang justru dapat merusak kode asli
+3.Bisa jadi portofolio seorang developer
+
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut !
+
+Istilah-istilah di GitHub
+ 
+Git
+Git sendiri adalah jantung atau inti dari GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh seseorang yang juga menciptakan dan
+mengembangkan sistem operasi Linux yaitu Linus Torvalds.
+
+Hub
+Jika Git adalah jantungnya GitHub maka Hub adalah jiwanya. Hub sendiri merupakan jiwa GitHub karena fungsinya yang mengubah command line (baris perintah)
+menjadi jaringan sosial bagi para programmer.
+
+Repositori
+Repositori sendiri adalah deriktori penyimpanan file-file proyek. File-file tersebut bisa berupa file gambar, file kode, atau file audio, tapi 
+suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+
+Forking Repositori
+Forking Repositori merupakan fitur yang singkatnya berguna untuk menyalin Repositori yang sudah ada ke Repositori baru, lalu menambahkan beberapa 
+perubahan dan menjadikannya Repositori Anda.
+
+Branch
+Singkatnya Branch adalah salinan Repositori yang digunakan apabila memulai suatu pengembangan proyek secara terpisah. Branch ini memungkinkan kita melakukan 
+suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+ 
+Pull Request
+Singkatnya Pull Request merupakan perintah untuk mengirimkan informasi dari Branch ke Master Repositori bahwa Anda telah melakukan perubahan atau
+penambahan di Branch.
+
+4. Sebutkan Layanan selain Github ?
+Web yang seperti GitHub (penyedia source code/kode sumber dari beberapa program/layanan):
+- SourceForge 
+- CodePlex 
+- BitBucket 
+- GitLab 
+- BeanStalk 
+- Google Cloud Source 
